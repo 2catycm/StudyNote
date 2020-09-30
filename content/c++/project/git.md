@@ -1,8 +1,8 @@
-# git
-
 ## git基础入门
 
-参考文章: 1. [Git教程 \| 菜鸟教程](https://www.runoob.com/git/git-tutorial.html) 2. [Git五分钟教程 \| 菜鸟教程](https://www.runoob.com/w3cnote/git-five-minutes-tutorial.html)
+参考文章: 
+1. [Git教程 \| 菜鸟教程](https://www.runoob.com/git/git-tutorial.html) 
+2. [Git五分钟教程 \| 菜鸟教程](https://www.runoob.com/w3cnote/git-five-minutes-tutorial.html)
 
 ## Introduction
 
